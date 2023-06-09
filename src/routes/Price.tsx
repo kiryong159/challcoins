@@ -92,7 +92,6 @@ const PercentText = styled.span<{ isGreen: boolean }>`
 `;
 
 function Price({ coinId, tickersData }: IProps) {
-  console.log(tickersData);
   return (
     <>
       {tickersData ? (
