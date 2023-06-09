@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/challcoins/static/js/main.b91000af.js",
+    "main.js": "/challcoins/static/js/main.2337abc3.js",
     "index.html": "/challcoins/index.html",
-    "main.b91000af.js.map": "/challcoins/static/js/main.b91000af.js.map"
+    "main.2337abc3.js.map": "/challcoins/static/js/main.2337abc3.js.map"
   },
   "entrypoints": [
-    "static/js/main.b91000af.js"
+    "static/js/main.2337abc3.js"
   ]
 }
